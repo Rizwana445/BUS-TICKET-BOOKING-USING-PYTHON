@@ -1,0 +1,1 @@
+sql = "INSERT INTO buses (bus_name, bus_timing, bus_number) VALUES (%s, %s, %s)"
